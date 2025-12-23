@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# CSV files (generated data)
+*.csv
+
+# Virtual environments
+venv/
+.env/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
