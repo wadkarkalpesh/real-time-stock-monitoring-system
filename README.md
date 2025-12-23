@@ -4,7 +4,7 @@ Real-Time Stock Monitoring System using ETL and OLAP
 ## How to Run
 
 ''' bash   
-pip install -r requirements.txt
+pip install -r requirements.txt       
 python src/q.py
 '''
 ## Screenshots
