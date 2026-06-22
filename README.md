@@ -33,13 +33,13 @@ stock data like a real data engineering problem:
 ## Screenshots
 
 **ETL + OLAP Dashboard**
-![ETL Dashboard]([./Screenshots/etl%2Bolap%20dashboard.png](https://github.com/wadkarkalpesh/real-time-stock-monitoring-system/blob/main/Screenshots/etl%2Bolap%20dashboard.png))
+![ETL Dashboard](https://github.com/wadkarkalpesh/real-time-stock-monitoring-system/blob/main/Screenshots/etl%2Bolap%20dashboard.png)
 
 **Live Data Fetch from Yahoo Finance**
-![Yahoo Data Fetch]([./Screenshots/yahoo%20finance%20data%20fetched.png](https://github.com/wadkarkalpesh/real-time-stock-monitoring-system/blob/main/Screenshots/yahoo%20finance%20data%20fetched.png))
+![Yahoo Data Fetch](https://github.com/wadkarkalpesh/real-time-stock-monitoring-system/blob/main/Screenshots/yahoo%20finance%20data%20fetched.png)
 
 **OLAP Queries in Action**
-![OLAP Queries]([./Screenshots/OLAP%20Queries.png](https://github.com/wadkarkalpesh/real-time-stock-monitoring-system/blob/main/Screenshots/OLAP%20Queries.png))
+![OLAP Queries](https://github.com/wadkarkalpesh/real-time-stock-monitoring-system/blob/main/Screenshots/OLAP%20Queries.png)
 
 ## How to Run
 
